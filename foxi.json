@@ -3,7 +3,7 @@
     "description": "福昕高级PDF编辑器专业版",
     "homepage": "https://www.foxit.com/",
     "url": "https://raw.githubusercontent.com/chernmy/scoop/main/foxit.7z#/dl.7z",
-    "hash": "6dc083c8e9c3c642c0fe616bf833cf4d913ed95a247d48e36616b061490a4db3",
+    "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
     "bin": "Foxit PDF Editor/FoxitPDFEditor.exe",
     "shortcuts": [
         [
